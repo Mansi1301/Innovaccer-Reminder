@@ -38,7 +38,6 @@ When the code is run the terminal asks for email id and list of favorite tv seri
 2.	Mailing is done through ansible and only gmail accounts can be taken into account. Make sure that you have enabled receiving mails from less secured devices. 
 3. In the mail method, email id, username and password is to be provided by admin i.e from whose account the mails are to be forwarded.
 
-## CODE EXPLANATAION
 
 Mail will be shown in this format : ![alt text](https://raw.githubusercontent.com/Mansi1301/Innovaccer-Reminder/master/gmail.png)
 
