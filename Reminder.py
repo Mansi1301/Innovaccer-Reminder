@@ -1,8 +1,4 @@
 
-# coding: utf-8
-
-# In[1]:
-
 
 import mysql.connector
 from bs4 import BeautifulSoup
