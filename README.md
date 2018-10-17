@@ -32,7 +32,7 @@ b.	service mysqld start
 4.	IMDbPY – It is a Python package useful to retrieve and manage the data of the IMDb movie database.
 
 
-## HOW DOES IS WORK:
+## HOW DOES IT WORK:
 
 imdb.py
 When the code is run the terminal asks for email id and list of favorite tv series, separated by commas and they’ll receive a mail which will contain the details about the next release of the show or if the series has completed. Details about the whole process:
